@@ -33,17 +33,14 @@ https://miro.medium.com/max/700/1*g2b5fpKje2piDKI4ZkW-4w.png
 ![stm14](https://user-images.githubusercontent.com/79191383/135728693-d49b0764-1006-4bdf-9191-6c86abfe6d79.JPG)
 ![stm15](https://user-images.githubusercontent.com/79191383/135728699-317b0156-7886-423f-8edf-880291c73dd7.JPG)
 
-
-
 ![board11](https://user-images.githubusercontent.com/79191383/139230441-8ce7b12c-cd3c-47a9-8686-cccd54a9a2aa.png)
-
-
-
-
-
 ![MCU](https://user-images.githubusercontent.com/79191383/139242110-4b877bcf-1550-48c4-bf99-b9fb9a5f2bdf.png)
 
 
 
 
+![board11](https://user-images.githubusercontent.com/79191383/139261931-9bea10f0-c442-4c0e-b7a9-b352a128ed18.png)
+![block_dia](https://user-images.githubusercontent.com/79191383/139262103-39638bf5-ba16-4feb-8514-3254d1435242.png)
+
+![1WGb](https://user-images.githubusercontent.com/79191383/139262581-f9cc5414-027c-4ff4-8742-6751d38ac45d.png)
 
